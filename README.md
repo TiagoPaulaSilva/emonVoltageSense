@@ -1,6 +1,6 @@
 # emonVS
 
-AC voltage sensor and power supply for [emonTx V4](https://github.com/openenergymonitor/emontx4) and [emonPi V2](https://github.com/openenergymonitor/emonpi2).
+AC voltage sensor and power supply for [emonTx V4](https://github.com/import-tiago/emontx4) and [emonPi V2](https://github.com/import-tiago/emonpi2).
 
 
 
@@ -8,9 +8,9 @@ AC voltage sensor and power supply for [emonTx V4](https://github.com/openenergy
 --- | ---
 
 ## Outputs
-- The **RJ45 connector** is used to provide power supply and AC voltage sample to [emonTx V4](https://github.com/openenergymonitor/emontx4) and [emonPi V2](https://github.com/openenergymonitor/emonpi2).
+- The **RJ45 connector** is used to provide power supply and AC voltage sample to [emonTx V4](https://github.com/import-tiago/emontx4) and [emonPi V2](https://github.com/import-tiago/emonpi2).
 
-- The **2-pins terminal block connector** from emonVS (CN3) can supply power to an [emonBase](https://github.com/openenergymonitor/emonbase) using a open-ended USB-C connector.
+- The **2-pins terminal block connector** from emonVS (CN3) can supply power to an [emonBase](https://github.com/import-tiago/emonbase) using a open-ended USB-C connector.
 
 ## Schematic Preview 
 <p align="center"><a href="1.3/emonVS.pdf"><img src="1.3/assets/schematic_preview.png"  title="download .pdf file" alt="PDF Download"></a></p>
